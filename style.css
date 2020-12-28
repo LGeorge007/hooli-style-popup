@@ -102,11 +102,11 @@ a{
 
 .popup-menu{
     width: 450px;
-    height: 400px;
+    height: 470px;
     background-color: #D3D3D3;
     position: absolute;
-    top: 12%;
-    right: 3%;
+    top: 8%;
+    right: 2%;
     border: solid 1px #777;
     border-radius: 6px;
     box-shadow: 8px 8px 16px -1px gray;
